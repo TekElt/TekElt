@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TekElt
-- 👀 I’m interested in using Technology to enhance accessibility to medical and healthcare systems.
-- 🌱 I’m currently learning HTML, CSS and JavaScript 
+- 👋 Hi, I’m KOLECT 
+- 👀 I’m a Biomedical Scientist and Technology enthusiast, interested in using Technology to enhance accessibility to medical and healthcare systems.
+- 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate on front-end projects 
 - 📫 Reach me on enomakolect@gmail.com
 
